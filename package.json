@@ -1,9 +1,11 @@
 {
-  "name": "riri-bot",
+  "name": "riri-reddit-bot",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "start": "node trigger/videoBot.ts"
+  },
   "dependencies": {
-    "@trigger.dev/sdk": "^3.0.0",
     "telegraf": "^4.16.3"
   }
 }
