@@ -1,0 +1,9 @@
+{
+  "name": "riri-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@trigger.dev/sdk": "^3.0.0",
+    "telegraf": "^4.16.3"
+  }
+}
